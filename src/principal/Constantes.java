@@ -3,7 +3,7 @@ package principal;
 import java.awt.Color;
 import java.awt.Font;
 import principal.herramientas.CargadorRecursos;
-// cambio para ejercicio dpl.
+// cambio para ejercicio dpl A2.
 
 public class Constantes 
 {
